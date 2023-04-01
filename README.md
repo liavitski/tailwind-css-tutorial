@@ -1,2 +1,1 @@
-### Tailwind CSS tutorial
-Tailwind CSS tutorial by Dave Gray
+#### This repository contains Tailwind CSS tutorial by Dave Gray.
